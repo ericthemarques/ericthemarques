@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, my name is Eric 🎴
+---------------------------------
+<p>I'm a front-end developer based on Brazil 🇧🇷</p>
+<p>Currently working and studying to be a better developer</p>
+
+
+
+>"Programming is like magic in fantasy, you start with simple spells and slowly learn how to create more and more complex and powerful ones."
 
 <!--
 **ericthemarques/ericthemarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
